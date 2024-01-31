@@ -1,5 +1,5 @@
 {
-  "name": "shaggy-shell",
+  "name": "peaceful-proxima",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -10,15 +10,9 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/check": "^0.4.1",
-    "@astrojs/tailwind": "^5.1.0",
-    "@astrojs/vercel": "^7.0.2",
-    "astro": "^4.2.8",
-    "flowbite": "^2.2.1",
-    "tailwindcss": "^3.4.1"
-  },
-  "devDependencies": {
-    "postcss-html": "^1.6.0",
-    "stylelint-config-html": "^1.1.0"
+    "@astrojs/mdx": "^2.1.1",
+    "@astrojs/rss": "^4.0.4",
+    "@astrojs/sitemap": "^3.0.5",
+    "astro": "^4.2.8"
   }
 }
